@@ -1,0 +1,155 @@
+body{
+
+	margin: 0px;
+}
+
+a{
+
+	text-decoration: none;
+	color: #F0F8FF;
+}
+
+li{
+
+	list-style: none;
+}
+
+#cabecalho{
+
+	background: #f4c430;
+}
+
+#logo{
+
+
+	line-height: 80px;
+	float: left;
+	margin-left: 100px;
+}
+
+#botao-cabecalho{
+
+	float: right;
+	font-size: 22px;
+	line-height: 80px;
+	margin-right: 110px;
+}
+
+#botao-cabecalho a{
+
+	border: 1px solid white;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#botao-cabecalho a:hover{
+
+	background: white;
+	color: #f4c430;
+}
+
+#menu-cabecalho{
+
+	float: right;
+	margin-right: 100px;
+	line-height: 50px;
+}
+
+#menu-cabecalho li{
+
+	float: left;
+}
+
+#menu-cabecalho a{
+
+	margin: 5px;
+	padding: 10px;
+	font-size: 21px;
+	color: #A0522D;
+
+}
+
+#menu-cabecalho a:hover{
+
+	opacity: 50%;
+}
+
+#area-apresent{
+
+	height: 500px;
+	background-image: url(../imagens/moeda-ouro.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	opacity: 0.8;
+}
+
+#anuncio-inicio{
+
+	width: 400px;
+	border: 1px solid red;
+	margin: 0px auto;
+	padding: 150px 100px;
+	color: ;
+}
+
+#anuncio-inicio p{
+
+	font-size: 2em;
+}
+
+#barra-branca{
+
+	border-bottom: 1px solid dimgray;
+	border-top: 1px solid dimgray;
+}
+
+#conteudo-amostra{
+
+	width: 400px;
+	float: left;
+	padding-left: 50px;
+}
+
+#titulo-produtos{
+
+	width: 350px;
+	padding-left: 10px;
+	margin: 20px auto;
+	border: 1px solid red;
+	font-size: 2em;
+}
+
+#produtos-01{
+
+	width: 1800px;
+	margin: 0px auto;
+}
+
+.center{
+
+	margin: 0px auto;
+	border: 1px solid;
+	width: 400px;
+}
+
+.left{
+
+	float: left;
+}
+
+.right{
+
+	float: right;
+}
+
+.clear{
+
+	clear: both;
+}
+
+.font-logo{
+
+	font-size: 2.5em;
+}
