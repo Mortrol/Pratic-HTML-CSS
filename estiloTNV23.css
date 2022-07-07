@@ -1,0 +1,145 @@
+
+body{
+
+	margin: 0px;
+}
+
+ul{
+
+	list-style: none;
+	padding: 0px;
+}
+
+a{
+
+	text-decoration: none;
+}
+
+
+#container{
+
+	width: 750px;
+	margin: 0px auto;
+}
+
+#topo{
+
+	height: 150px;
+
+}
+
+#logo{
+
+	width: 152px;
+	height: 62px;
+}
+
+#menu-cima ul{
+
+	margin-top: 30px;
+	background: #7093DB;
+	float: left;
+}
+
+#menu-cima li{
+
+	float: left;
+}
+
+#menu-cima a{
+
+	padding: 0.5em 1.5em;
+	line-height: 2.1em;
+	background: url(../Imagens/divisor-eu.bmp) no-repeat left center;
+	color: white;
+}
+
+#topo .primeiro a{
+
+	background: none;
+}
+
+#topo a:hover{
+
+	color: black;
+}
+
+body.home #navegacao a#home{
+
+	background: #007FFF;
+	color: white;
+	cursor: text;
+}
+
+#container-principal{
+
+	width: 750px;
+	margin: 0px auto;
+	padding-top: 10px;
+}
+
+#conteudo{
+
+	width: 750px;
+	margin: 0px auto;
+	float: left;
+
+}
+
+#menu-lateral{
+
+	width: 200px;
+	float: left;
+}
+
+#menu-lateral li{
+
+	padding-top: 20px;
+}
+
+#menu-lateral a{
+
+	font-size: 18px;
+	color: black;
+}
+
+#menu-lateral a:hover{
+
+	color: lightgray;
+	margin: 5px;
+	text-decoration: underline;
+}
+
+#conteudo-meio{
+
+	width: 500px;
+	padding-left: 20px;
+	border: solid 1px;
+	float: left;
+	
+}
+
+.sub-titulo{
+
+	background: #4D4DFF;
+	padding: 5px;
+	color: white;
+}
+
+.postagem{
+
+	width: 200px;
+	padding: 10px;
+	float: left;
+}
+
+.titulo{
+
+	background: #7093DB;
+	color: white;
+}
+
+.underline{
+
+	text-decoration: underline;
+}

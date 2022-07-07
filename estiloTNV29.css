@@ -1,0 +1,75 @@
+body{
+
+	margin: 0px;
+	padding: 0px;
+}
+
+ul{
+
+	list-style: none;
+	padding: 0px;
+}
+
+a{
+
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+}
+
+#cabecalho{
+
+	width: 1000px;
+	margin: 0px auto;
+}
+
+#logo{
+
+	width: 250px;
+	border: solid 1px blue;
+
+}
+
+#logo h1{
+
+	font-size: 2.5em;
+}
+
+
+#menu-cabecalho li{
+
+	float: left;
+
+}
+
+#menu-cabecalho a{
+	
+	padding: 3px 2em;
+	border: solid 1px;
+}
+
+#menu-cabecalho a:hover{
+
+	background: lightblue;
+	color: white;
+	border: solid 1px black;
+}
+
+#area-conteudo{
+
+	width: 1000px;
+	margin: 10px auto;
+	border: solid 1px blue;
+}
+
+#conteudo-esq{
+
+	width: 200px;
+	border: solid 1px blue;
+
+}
+
+.clear{
+
+	clear: both;
+}

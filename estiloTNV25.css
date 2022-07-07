@@ -1,0 +1,113 @@
+body{
+
+	padding: 0px;
+}
+
+ul{
+
+	list-style: none;
+	padding: ;
+}
+
+a{
+
+	text-decoration: none;
+	color: black;
+}
+
+#cabecalho{
+
+	width: 920px;
+	padding: 10px;
+	margin: 0px auto;
+	text-align: center;
+	border: solid 1px;
+}
+
+#cabecalho h1{
+
+	font-size: 2.5em;
+}
+
+#menu-cabecalho{
+
+	width: 800px;
+	margin: 0px auto;
+
+}
+
+#menu-cabecalho li{
+
+	float: left;
+	padding: 0px 5px;
+		
+} 
+
+#menu-cabecalho a{
+
+	color: black;
+	padding: 10px 2em;
+	border: solid 1px;
+}
+
+#menu-cabecalho a:hover{
+
+		background: #f5f5f5;
+}
+
+#area-principal{
+
+	width: 1200px;
+	padding: 10px;
+	margin: 10px auto;
+	border: solid 1px;
+}
+
+
+#local-postagem-principal{
+
+	width: 700px;
+	background: red;
+	
+}
+
+#rodape{
+
+	width: 920px;
+	margin: 5px auto;
+	text-align: center;
+	border: solid 1px;
+}
+
+.menu-postagem{
+
+	margin: 10px auto;
+	width: 150px;
+	padding: 10px;
+}
+
+.menu-postagem a{
+
+	padding: 10px 2em;
+	border: solid 1px;
+	
+}
+
+.menu-postagem a:hover{
+
+	background: #c0c0c0;
+}
+
+.postagem-meio{
+
+	width: 250px;
+	float: left;
+	padding: 5px;
+	margin: 5px;
+	border: solid 1px;
+}
+
+.clear{
+
+	clear: both;
+}

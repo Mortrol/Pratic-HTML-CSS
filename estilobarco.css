@@ -1,0 +1,53 @@
+body{
+
+	background: #D2B48C;
+}
+
+a{
+
+	font-family: geneva;
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+
+}
+
+p{
+	font-family: Helvetica;
+}
+
+h1{
+	font-family: s ;
+
+	
+}
+
+
+
+#foto{
+
+	width: 900px;
+	
+}
+
+#menu{
+
+	border: solid 1px;
+	background: #CD853F;
+	padding: 10px;
+}
+
+#conteudo{
+
+	border:;
+	background: #DEB887;
+	padding: 10px;
+}
+
+#DRs{
+
+	
+	text-align: center;
+}
+
+

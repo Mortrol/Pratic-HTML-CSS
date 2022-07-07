@@ -1,0 +1,78 @@
+img{
+
+	width: 300px;
+	padding-left:2px ;
+}
+
+a{
+
+	text-decoration: none;
+	color: black;
+	font-size: 21px;
+	padding: 2px;
+
+}
+
+a:hover{
+
+	color: red;
+	
+	background: yellow;
+}
+
+a:visited{
+
+	color: ;
+}
+
+
+#principal{
+
+	
+}
+
+#cabecalho{
+
+	border: 2px solid;
+	margin: 10px;
+}
+
+#menu{
+
+	border: solid 2px ;
+	border-bottom: none;
+	float: right;
+	margin: 27px;
+	padding: 15px;
+}
+
+#conteudo{
+
+	border: solid 1px;
+	
+
+
+}
+
+#sub_conteudo{
+
+	width: 200px;
+	float: right;
+	border: solid 1px red;
+	
+
+}
+
+.noticias{
+
+	width: 200px;
+	border: solid 2px;
+	padding: 5px;
+	margin: 5px;
+	float: left;
+}
+
+.clear{
+
+	clear: both;
+}

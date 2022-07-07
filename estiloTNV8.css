@@ -1,0 +1,31 @@
+#principal{
+	
+	
+	width: 750px;
+}
+
+#menu{
+
+	
+	padding: 10px;
+	background: #778899;
+	text-align: center;
+
+}
+
+#conteudo{
+
+	border: solid 2px;
+	padding: 15px;
+	background: #B0C4DE;
+	font-size: 18px;
+	margin: 0px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+	padding: 15px;
+	font-family: sans-serif;
+}

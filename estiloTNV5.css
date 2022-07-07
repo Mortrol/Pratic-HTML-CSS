@@ -1,0 +1,59 @@
+body{
+
+	background: #C0C0C0;
+}
+
+a{
+
+	font-size: 18px;
+	text-decoration: none;
+	color: black;
+}
+
+h1{
+	font-family: sans-serif;
+	font-size: 25px;
+	color: #1C1C1C;
+}
+
+p{
+
+	font-family: all;
+}
+
+#principal{
+
+	width: 700px;
+	
+}
+
+#principal2{
+
+	float: right;
+	width: 628px;
+	
+}
+
+#menu{
+
+	
+	background: #A9A9A9;
+	padding: 15px;
+	
+
+}
+
+#menu2{
+
+	
+	background: #A9A9A9;
+	padding: 15px;
+	
+
+}
+
+#conteudo{
+
+	background: #DCDCDC;
+	padding: 5px;
+}

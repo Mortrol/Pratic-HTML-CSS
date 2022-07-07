@@ -1,0 +1,146 @@
+
+body{
+	
+	margin: 0px;
+	background:;
+}
+
+h1{
+
+	font-size: 2.5em;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	color: blue;
+}
+
+p{
+	padding: 5px;
+}
+
+li{
+
+	align-content: center;
+}
+
+
+
+#area-cabecalho{
+
+	background: #1E90FF;
+	padding: 10px;
+}
+
+	
+	#area-cabecalho a{
+
+		color: white;
+		font-size: 20px;
+		padding: 5px;
+		font-family: sans-serif;
+	}
+
+	#area-cabecalho a:hover{
+
+		color: #1E90FF;
+		background: white;
+	}
+
+#logo-cabecalho{
+
+	float: left;
+	padding: 5px;
+	border: solid 1px white;
+}
+
+#menu-cabecalho{
+
+	float: left;
+	padding: 10px;
+	position: relative;
+	top: 35px;
+}
+
+#area-principal{
+
+	width: 1120px;
+	background:;
+	margin: 10px auto;
+
+}
+
+	#local-postagem{
+
+		width: 700px;
+		float: left;
+		padding: 5px;
+		margin: 10px;
+		background: whitesmoke;
+
+	}
+		.postagem{
+
+			background: #DCDCDC;
+			margin: 10px;
+			padding: 10px;
+
+
+			
+
+		}
+			.postagem a:hover{
+
+				color: black;
+				text-decoration: underline;
+				padding: 3px;
+			}
+
+#lateral-postagem{
+
+	width: 310px;
+	float: right;
+	padding: 5px;
+	background: whitesmoke;
+}
+
+	#lateral-postagem a:hover{
+
+		padding: 5px;
+		text-decoration: underline;
+	}
+
+	.titulo-lateral{
+		font-size: 20px;
+		font-family: sans-serif;
+		display: block;
+		text-align: center;
+		margin: 5px;
+		background: #DCDCDC;
+
+
+	}
+
+	.position-h3{
+
+		text-align: center;
+		background: #DCDCDC;
+		padding: 10px;
+	}
+
+
+	
+
+#rodape{
+
+	text-align: center;
+	background: whitesmoke;
+}
+
+
+
+.clear{
+
+	clear: both;
+}

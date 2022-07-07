@@ -1,0 +1,39 @@
+body{
+
+	background: #DCDCDC;
+}
+
+h1{
+
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+a{
+
+	text-decoration: none;
+	font-size: 18px;
+	color: black;
+}
+
+#o-todo{
+
+	
+	width: 900px;
+}
+
+#menu{
+
+
+	padding: 15px;
+	background: #C0C0C0;
+}
+
+#conteudoo{
+
+	
+	padding: 10px;
+	background: #D3D3D3;
+	
+}
+

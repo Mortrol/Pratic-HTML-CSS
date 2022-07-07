@@ -1,0 +1,30 @@
+body{
+	
+	background:	;
+}
+
+a{
+
+	color: white;
+}
+
+#est-principal{
+	
+	width: 700px;
+
+}
+
+#menu{
+	
+	padding: 15px;
+	text-decoration: none;
+	text-size: 18px;
+	text-family: Sens-serif;
+	background: #A9A9A9;
+}
+
+#conteudo{
+	
+	Padding: 10px;
+	background: #696969;
+}

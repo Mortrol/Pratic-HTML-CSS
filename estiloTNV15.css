@@ -1,0 +1,100 @@
+body{
+	background: #F5F5F5;
+	
+	font-size: 1em;
+
+}
+
+h1{
+
+	font-size: 2.5em;
+	color: white;
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+#menu-cabecalho a{
+
+	color: white;
+	margin: 10px;
+	padding: 10px;
+	font-family: sans-serif;
+}
+
+#menu-cabecalho a:hover{
+
+	background: white;
+	color: #696969 ;
+}
+
+#area-cabecalho{
+
+	background: #696969;
+	margin: 0px;
+	padding: 15px;
+	text-align: center;
+
+}
+
+#area-principal{
+
+	width: 920px;
+	margin: 10px auto;
+}
+
+#area-postagem{
+
+	background: white;
+	width: 660px;
+	float: left;
+
+}
+
+#area-postagem a:hover{
+	
+	text-decoration: underline;
+	padding: 2px;
+	
+}
+
+#area-lateral{
+
+	width: 240px;
+	background: white;
+	float: right;
+}
+
+.postagens-laterais{
+
+	background: #D3D3D3;
+	padding: 5px;
+	margin: 10px;
+}
+
+.postagens-laterais a:hover{
+
+	text-decoration: underline;
+	padding: 2px;
+}
+.postagem{
+
+	background: #D3D3D3;
+	padding: 5px;
+	margin: 10px;
+}
+
+.position-h3{
+
+	text-align: center;
+	background: gray;
+	padding: 5px;
+}
+
+.clear{
+
+	clear: both;
+}

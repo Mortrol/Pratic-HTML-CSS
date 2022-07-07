@@ -1,0 +1,82 @@
+body{
+	
+	background: black;
+}
+
+p{
+
+	color: white;
+}
+
+h1{
+	color: white;
+
+}
+
+img{
+
+	width: 90px;
+	margin: 0px;
+	border: solid white;
+
+
+
+}
+
+
+
+
+a{
+	text-decoration: none;
+	font-size: 18px;
+	color: black;
+	font-family: sans-serif;
+	margin: 5px;
+	color: white;
+
+}
+
+a:hover{
+
+	color: white;
+	background: black;
+	padding: 2px;
+	border: solid 3px white;
+	
+}
+
+
+#cabecalho{
+
+	
+	text-align: center;
+	
+
+
+
+}
+
+#menu{
+
+	border: solid 2px white;
+	float: left;
+	padding: 15px;
+	background: black;
+	position: relative;
+	top: 45px;
+}
+
+#menu2{
+
+	border: solid 2px white;
+	float: right;
+	padding: 15px;
+	background: black;
+	position: relative;
+	top: 45px;
+}
+
+#conteudo{
+
+	padding: 5px;
+}
