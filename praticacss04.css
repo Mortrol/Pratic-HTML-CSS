@@ -1,0 +1,209 @@
+body{
+
+	margin: 0px;
+
+}
+
+ul{
+
+	padding: 0px;
+	list-style: none;
+}
+
+a{
+
+	text-decoration: none;
+	color: black;
+}
+
+#cabecalho{
+
+	border: 1px solid;
+	background: #f4c430;
+	display: flex;
+	justify-content: space-between;
+}
+
+#logo-cabecalho{
+
+	border-right: 1px solid;
+	width: 300px;
+	font-size: 1.5em;
+	text-align: center;
+
+}
+
+#navegacao-cabecalho{
+	padding-top: 40px;
+	width: 1100px;
+}
+
+#navegacao-cabecalho .container-opcao a{
+
+	font-size: 22px;
+	margin: 0px 10px;
+	padding: 10px 1em;
+	border: 1px solid;
+	
+}
+
+#navegacao-cabecalho .container-opcao a:hover{ 
+
+	opacity: 0.7;
+	color: white;
+	
+
+}
+
+
+#login-cabecalho{
+
+	padding-left: 30px ;
+}
+
+#login-cabecalho a{
+
+	font-size: 22px;
+	border: 1px solid;
+	border-radius: 15px;
+	text-align: center;
+	padding: 15px 1em;
+
+}
+
+#login-cabecalho a:hover{
+
+	background: #f4c430;
+	color: white;
+}
+
+#area-apresentacao{
+
+	height: 725px;
+	background-image: url(../imagens/moeda-ouro.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	opacity: 0.8;
+}
+
+#area-titulos-produtos{
+
+	border: 1px solid;
+	background: #f4c430;
+	display: flex;
+	justify-content: space-between;
+}
+
+#area-titulos-produtos h3{
+
+	text-align: center;
+	font-size: 22px;
+}
+
+#area-conteudo{
+
+
+		margin: 10px;
+		display: flex;
+		justify-content: space-between;
+}
+
+#area-conteudo h2, #area-conteudo h4{
+
+	text-align: center;	
+}
+
+#area-conteudo a{
+
+	font-size: 18px;
+}
+
+#area-conteudo a:hover{
+
+	text-decoration: underline;
+	opacity: 0.7;
+	color: white;
+	padding: 5px;
+	
+}
+
+#area-esquerda{
+
+	width: 300px;
+	background: #f4c430;
+	border: 1px solid;
+	
+}
+
+
+#area-meio{
+
+	width: 1000px;
+	background: #f4c430;
+	border: 1px solid;
+}
+
+#container-meio{
+
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#area-direita{
+
+	width: 450px;
+	background: #f4c430;
+	border: 1px solid blue;
+}
+
+#rodape{
+
+	background: #f4c430;
+	border: solid 1px;	
+	text-align: center;
+	padding: 20px;
+	margin: 10px;
+}
+
+.rodape-titulo{
+
+	font-size: 22px;
+}
+
+.postagem-meio{
+
+	width: 300px;
+	background: #;
+	margin: 5px;
+	padding: 10px;
+	border: 1px solid;
+}
+
+.postagem-esquerda{
+
+	border: 0.3px solid;
+	background: #;
+	padding: 10px;
+	margin: 5px;
+}
+
+.titulos-produtos{
+
+	border-left: 1px solid;
+	padding: 10px;
+}
+
+.apresentacao{
+
+
+	font-size: 2.5em;
+	color: #fff;
+	background: #111;
+	padding: 10px;
+	position: absolute;
+	left: 40%;
+	top: 35%;
+	
+}
